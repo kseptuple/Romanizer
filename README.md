@@ -8,6 +8,8 @@
 * [SKK 辞書](https://skk-dev.github.io/dict/)
 * [Unicode Character Database](https://www.unicode.org/ucd/)
 
+全部读音数据都存储在本地，不需要联网使用。
+
 ## 系统需求
 * Windows 7 或以上的操作系统
 * .net 8.0运行时（可选）
